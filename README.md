@@ -1,2 +1,3 @@
 # React-note-taking-App
-A react web app for note takaing.
+
+A react web app for note taking.
